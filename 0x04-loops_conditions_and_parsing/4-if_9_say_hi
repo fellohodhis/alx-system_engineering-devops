@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+#while loop iteration
+i=0
+while (( i < 10 ));
+do
+	echo "Best School"
+done
+	if i=9;
+	then
+		echo "Hi"
+	fi
