@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Using while loop to display a word
+i=0
+while(( i < 10));
+do 
+	echo "Best School"
+	((i++))
+done
