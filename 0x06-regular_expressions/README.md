@@ -10,3 +10,5 @@
  * creates a Ruby script that accepts one argument
 ### [1-repetition token 0.rb]()
  * creates a Ruby script that accepts one argument
+### [2-repetition token 1.rb]()
+ * create a Ruby script that accepts one argument
